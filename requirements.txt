@@ -1,0 +1,2 @@
+# 本服务仅用 Python 标准库，无需任何第三方依赖。
+# 保留此文件以便 Render / Railway 等平台识别为 Python 项目。

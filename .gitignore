@@ -1,0 +1,6 @@
+# 运行时日志/临时文件（不要提交）
+*.log
+*.tmp
+data.json.tmp
+_testdisk/
+__pycache__/
